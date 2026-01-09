@@ -1,0 +1,28 @@
+🩴 The Sandal Path: My Mission to the Red Team
+I am not just a student; I am a dedicated researcher on a mission to master the art of offensive security. This blog serves as the live documentation of my progress, from the first command line to the most complex exploit.
+
+How it Started: The Battlefield Classroom
+My journey didn't begin in a typical way. During my recent military reserve duty, I found a unique window of opportunity. In the gaps between operations, I decided to turn my dream of becoming a hacker into a reality. With a laptop and unwavering focus, I started my journey on TryHackMe, spending countless hours mastering networking and offensive fundamentals while still in uniform.
+
+Formal Education: The CyberProAI Foundation
+Upon returning to civilian life, I committed to formalizing my knowledge. I am currently a student in the intensive Cybersecurity Practitioner program at CyberProAI. This 600-hour academic program is providing me with a solid foundation in:
+
+Infrastructure Mastery: Windows, Linux, and Advanced Networking.
+
+Defensive Operations: Understanding SIEM, SOC, and EDR from the ground up.
+
+Offensive Security: Ethical Hacking and Network Security principles.
+
+Self-Driven Research: Going Beyond the Classroom
+I believe that true mastery comes from independent exploration. Parallel to my studies, I am building my "attacker mindset" through rigorous labs:
+
+Linux Internals: Developing deep CLI fluency through Bandit (OverTheWire) and pwn.college.
+
+Infrastructure & AD: Hands-on practice in breaking Active Directory environments and machine exploitation.
+
+Web Security: Deep-diving into HTTP/1.1 and modern web vulnerabilities (currently conquering Natas).
+
+Why "SandalGod"?
+It represents my philosophy: Stay comfortable, think clearly, and dig deep. I may be learning and "breaking" systems in sandals, but my commitment to becoming a world-class Red Teamer is absolute.
+
+Follow my journey as I document every lesson learned, every machine pwned, and every step closer to the mission.
